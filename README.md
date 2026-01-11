@@ -7,6 +7,7 @@
 - Correlation Heatmaps
 - Engagement Velocity
 - Forecasting Insights
+- Key Words Relational Model
 
           
 # 🔩 Technologies:
