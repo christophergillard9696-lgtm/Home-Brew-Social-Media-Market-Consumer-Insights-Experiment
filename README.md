@@ -38,6 +38,6 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 
 # 🗳️ Lessons and Improvements:
 - A Heavy Data Transformation was required for the TikTok metadata since it could only initially be exported as a long form txt file (code used for this task)
--
+- Both Youtube & TikTok do not deliver video tags as part of the metadata, so I had to go through and add this by hand. 
 -
 -
