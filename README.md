@@ -10,10 +10,10 @@
           
 # 🔩 Technologies:
 
--  
--
--
--
+- Excel/Google Sheets
+- Google Takeout
+- Power Bi
+- Python/
 -
 -
 
