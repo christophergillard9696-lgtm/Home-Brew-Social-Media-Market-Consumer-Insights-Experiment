@@ -34,8 +34,8 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 - 
 -
 -
-- I have no doubts that YouTube has a massive potential for draw through Thumbnails alone. 
-- Maybe creating content that is the exact opposite to the bottom 20 may draw in better views.
+- I have no doubts that YouTube has a massive potential for draw through Thumbnails alone
+- Maybe creating content that is the exact opposite to the bottom 20 may draw in better views
 
 # 🗳️ Lessons and Improvements:
 - A Heavy Data Transformation [script](https://gist.github.com/christophergillard9696-lgtm/cd9752f96a057d688058f32d2ef6fa5b) was required for the TikTok metadata.
