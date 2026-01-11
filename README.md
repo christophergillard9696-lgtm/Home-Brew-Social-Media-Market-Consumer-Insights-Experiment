@@ -34,7 +34,7 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 - 
 -
 -
--
+- I have no doubts that YouTube has a massive potential for draw through Thumbnails alone. 
 - Maybe creating content that is the exact opposite to the bottom 20 may draw in better views.
 
 # 🗳️ Lessons and Improvements:
