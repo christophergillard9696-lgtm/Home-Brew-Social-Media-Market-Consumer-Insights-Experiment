@@ -15,6 +15,7 @@
 - Google Takeout
 - Python/Pandas
 - Power Bi
+- SQL
 
 
 
