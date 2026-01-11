@@ -14,7 +14,7 @@
 
 - Excel/Google Sheets
 - Google Takeout
-- Python/Pandas
+- Python
 - Power Bi
 - SQL
 
