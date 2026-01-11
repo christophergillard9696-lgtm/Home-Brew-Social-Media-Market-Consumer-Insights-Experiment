@@ -1,21 +1,19 @@
 # Home-Brew-Social-Media-Market-Consumer-Insights-Experiment
 # 🔭 Features:
 
--
--
--
--
--
+- Data Science
+- Consuer Insight
+- Market Analysis
+- Correlation Heatmaps
+- Engagement Velocity
 
           
 # 🔩 Technologies:
 
 - Excel/Google Sheets
 - Google Takeout
+- Python/Pandas
 - Power Bi
-- Python/
--
--
 
 
 
