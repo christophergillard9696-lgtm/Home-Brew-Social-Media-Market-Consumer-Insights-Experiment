@@ -6,6 +6,7 @@
 - Market Analysis
 - Correlation Heatmaps
 - Engagement Velocity
+- Forecasting Insights
 
           
 # 🔩 Technologies:
