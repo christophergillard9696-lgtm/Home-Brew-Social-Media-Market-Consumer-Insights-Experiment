@@ -39,6 +39,6 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 
 # 🗳️ Lessons and Improvements:
 - A Heavy Data Transformation [script](https://gist.github.com/christophergillard9696-lgtm/cd9752f96a057d688058f32d2ef6fa5b) was required for the TikTok metadata.
-- Both Youtube & TikTok do not deliver Video Tags as part of the metadata, so I had to go through and add this by hand (I only did this for the top/bottom 20). 
+- Both Youtube & TikTok do not deliver Video Tags as part of the metadata, so I had to go through and add this by hand.
 - 
 -
