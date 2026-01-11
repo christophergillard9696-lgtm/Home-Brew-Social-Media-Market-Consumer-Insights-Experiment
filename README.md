@@ -1,4 +1,4 @@
-# Home-Brew-Social-Media-Market-Consumer-Insights-Experiment
+# Home Brew Social Media Market Consumer Insights Experiment
 # 🔭 Features:
 
 - Data Science
