@@ -38,7 +38,7 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 - Tags, Descriptions, Locations and Titles do have a positive effect on posts regardless of choices, as lowest performing videos are those with litter or no entries on these.
 - Granted anectdotally jumping the band wagon, selecting contemporary signifiers helps with post effectiveness. 
 - 9:30pm, 08:20pm, 01:20am and 04:14am seem to be best best times to post for this genera of media.
-- I have no doubts that YouTube has a massive potential for draw through Thumbnails alone
+- I have no doubts that YouTube has a massive potential for reach through thumbnails alone
 
 # 🗳️ Lessons and Improvements:
 - A Heavy Data Transformation [script](https://gist.github.com/christophergillard9696-lgtm/cd9752f96a057d688058f32d2ef6fa5b) was required for the TikTok metadata.
