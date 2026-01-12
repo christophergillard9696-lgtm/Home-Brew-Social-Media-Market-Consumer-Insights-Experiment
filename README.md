@@ -40,5 +40,6 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 # 🗳️ Lessons and Improvements:
 - A Heavy Data Transformation [script](https://gist.github.com/christophergillard9696-lgtm/cd9752f96a057d688058f32d2ef6fa5b) was required for the TikTok metadata.
 - Both Youtube & TikTok do not deliver Video Tags as part of the metadata, so I had to go through and add this by hand.
-- 
 -
+- 
+- Tiktok meta data also does not deliver the amount of watches per video, thus I have leant on sum of likes to determine viewership. This is somewhat problematic, however an argument can be made due to the nature of how tiktok works as a platform a view is an indication that it has shown up on someones scroll, a like determines that they engaged with the content and liked it enough to mark it (or misclicked).
