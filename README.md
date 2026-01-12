@@ -33,7 +33,7 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 # 👁️‍🗨️ Insights:
 - 
 -
--
+- 9:30pm, 08:20pm, 01:20am and 04:14am seem to be best best times to post for this genera of media.
 - I have no doubts that YouTube has a massive potential for draw through Thumbnails alone
 
 # 🗳️ Lessons and Improvements:
