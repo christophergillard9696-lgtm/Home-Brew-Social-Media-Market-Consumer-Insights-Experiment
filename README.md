@@ -38,7 +38,7 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 
 
 # 👁️‍🗨️ Insights:
-- The tags with the most reach are: #memes #fyp #gaming (these are the ones to keep)
+- The tags with the most reach are: #memes #fyp #gaming (these are the ones to keep).
 - All other tags need to be reworked to spread content further.
 - TikTok is clearly the better choice for the type of content we're putting out, maybe we need to change the format of our YouTube channel or concentrate on YTshorts.
 - For both TikTok and YouTube, BROADLY SPEAKING: 9:30pm, 08:20pm, 01:20am and 04:14am seem to be best best times to post.
