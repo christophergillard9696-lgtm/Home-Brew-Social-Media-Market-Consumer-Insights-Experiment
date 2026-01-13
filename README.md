@@ -52,5 +52,5 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 - A Heavy Data Transformation [script](https://gist.github.com/christophergillard9696-lgtm/cd9752f96a057d688058f32d2ef6fa5b) was required for the TikTok metadata.
 - Both Youtube & TikTok do not deliver Video Tags as part of the metadata, this had to be done by hand.
 - The range of data is not great for analysis, I should seriously consider expanding the pool of data to the top 40 videos.
-- 
+- There is an issue in my [python script](https://gist.github.com/christophergillard9696-lgtm/db592ab3f3890b813958bae219d1c2c9) used to extract tag frequency where it returns several numbers in the output data.
 - Tiktok meta data also does not deliver the amount of watches per video, thus I have leant on sum of likes to determine viewership. This is somewhat problematic, however an argument can be made due to the nature of how tiktok works as a platform a view is an indication that it has shown up on someones scroll, a like determines that they engaged with the content and liked it enough to mark it (or misclicked).
