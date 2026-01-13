@@ -5,12 +5,10 @@
 # 🔭 Features:
 
 - Data Science
-- Consuer Insight
+- Consumer Insights
 - Market Analysis
-- Correlation Heatmaps
-- Engagement Velocity
-- Forecasting Insights
-- Key Words Relational Model
+- Timing Velocity
+- Tagging Insights
 
           
 # 🔩 Technologies:
@@ -24,7 +22,7 @@
 
 
 # ♟️ The Process:
-After exporting my account data from TikTok and YouTube Studio (with additional metadata from Google Takeout), wanted to look into what time & day of the week videos performed the best, based on views, likes, and impressions. I then compared and contrasted these posts to understand which themes, formats, and post timings drive both the strongest and weakest engagement. 
+After exporting my account data from TikTok and YouTube Studio (with additional metadata from Google Takeout), I wanted to look into what time & day of the week videos performed the best, based on views, likes, and impressions. I then compared and contrasted these posts to understand which tags, and post timings drive for the strongest reach and engagement. 
 
 
 
