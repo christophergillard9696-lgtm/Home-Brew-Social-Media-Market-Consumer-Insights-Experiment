@@ -39,6 +39,9 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 <img width="1438" height="808" alt="TikTokTags" src="https://github.com/user-attachments/assets/9fae9cb2-968c-47b4-a6dd-45eb6eaca2d4" />
 <img width="1438" height="781" alt="CombTags" src="https://github.com/user-attachments/assets/4b2831c5-9bfa-4b1c-81bf-6d389f0ba0d2" />
 
+<img width="1425" height="794" alt="chi" src="https://github.com/user-attachments/assets/3e0b3ca0-42b0-4d4b-af4e-fa049b07749c" />
+
+
 
 # 👁️‍🗨️ Insights:
 - The tags with the most reach are: #memes #fyp #gaming (these are the ones to keep).
