@@ -7,8 +7,8 @@
 - Data Science
 - Consumer Insights
 - Market Analysis
-- Timing Velocity
 - Tagging Insights
+- Post Timing Insights
 
           
 # 🔩 Technologies:
