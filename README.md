@@ -33,8 +33,7 @@ After exporting my account data from TikTok and YouTube Studio (with additional 
 <img width="1433" height="802" alt="TikTokOverviewTiming" src="https://github.com/user-attachments/assets/dec02a76-53ff-4cae-b417-9d61913a8ef2" />
 <img width="1438" height="805" alt="CombinedOverviewTiming" src="https://github.com/user-attachments/assets/ec7f09d4-e5b8-4104-85c6-7d6160b88e13" />
 
-<img width="1438" height="798" alt="Conclusionary post time Performance" src="https://github.com/user-attachments/assets/adc3007b-a7c2-4c7f-96bb-d3ab1ab5e18f" />
-
+<img width="1424" height="798" alt="Conclusionary post time Performance" src="https://github.com/user-attachments/assets/93d3ff06-041c-44cb-8ba3-d98afb401d05" />
 
 <img width="1438" height="798" alt="TubeTags" src="https://github.com/user-attachments/assets/29f50b89-43ef-4906-a707-77c570727578" />
 <img width="1438" height="808" alt="TikTokTags" src="https://github.com/user-attachments/assets/9fae9cb2-968c-47b4-a6dd-45eb6eaca2d4" />
